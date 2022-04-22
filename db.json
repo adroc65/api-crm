@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "email": "adroc65@outlook.es",
+      "notas": "Desarrollos AI y de App",
+      "nombre": "Adrián Omodeo Chaves",
+      "empresa": "OmUm",
+      "telefono": "83238368",
+      "id": 1
+    },
+    {
+      "email": "san.0894@hotmail.com",
+      "notas": "Desarrollo emocional y físico para sus hijos.",
+      "nombre": "Sandra Umaña Acuña",
+      "empresa": "San-Voley",
+      "telefono": "88403517",
+      "id": 3
+    },
+    {
+      "email": "pomodeo@gmail.com",
+      "notas": "Diseño publicitario y acesores de imagen",
+      "nombre": "Paola Raquel Omodeo Umaña",
+      "empresa": "Pao Disign",
+      "telefono": "60005858",
+      "id": 5
+    }
+  ]
+}
